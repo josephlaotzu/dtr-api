@@ -1,0 +1,29 @@
+{
+  "name": "basic-dtr-api",
+  "version": "0.0.1",
+  "description": "basic dtr api that uses nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josephlaotzu/dtr-api.git"
+  },
+  "keywords": [
+    "dtr"
+  ],
+  "author": "Joseph Lao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josephlaotzu/dtr-api/issues"
+  },
+  "homepage": "https://github.com/josephlaotzu/dtr-api#readme",
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  }
+}
